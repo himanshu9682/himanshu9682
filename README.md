@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanshu9682
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 himanshu.hv3992@gmail.com
