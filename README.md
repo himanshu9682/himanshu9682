@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @himanshu9682
-- 👀 I’m interested in Software Development
+- 👀 I’m a Full Stack Web and Software Developer
+- 💼 Working as a PHP Developer
 - 🌱 I’m currently learning Ethical Hacking
 - 📫 himanshu.hv3992@gmail.com
