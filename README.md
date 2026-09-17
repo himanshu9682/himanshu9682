@@ -1,55 +1,154 @@
 <div align="center">
 
-<!-- ═══ HERO HEADER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:000814,50:000d1a,75:001433,100:000000&height=300&section=header&text=HIMANSHU%20VERMA&fontSize=65&fontColor=4fc3f7&animation=fadeIn&fontAlignY=40&stroke=4fc3f7&strokeWidth=2.5&desc=◈%20%20MISSION%20CONTROL%20%20—%20%20FULL%20STACK%20ENGINEER%20%20◈&descAlignY=58&descSize=15&descColor=0288d1" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    HYPEROS BOOT SEQUENCE                       -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,20:101010,45:18202b,70:26384a,100:050505&height=280&section=header&text=HIMANSHU%20OS&fontSize=72&fontColor=4FC3F7&animation=fadeIn&fontAlignY=38&stroke=4FC3F7&strokeWidth=2&desc=HYPEROS%20%E2%80%94%20PERSONAL%20DEVELOPER%20ENVIRONMENT&descAlignY=61&descSize=14&descColor=90CAF9"/>
 
 <br/>
 
-<!-- ═══ BOOT SEQUENCE ANIMATION ═══ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=80&color=4FC3F7&center=true&vCenter=true&width=750&height=260&lines=◈+NASA+MISSION+CONTROL+—+BOOT+SEQUENCE+INITIATED;+;Checking+power+systems+...+...+...+%5B+OK+%5D;Checking+flight+computer+...+...+%5B+OK+%5D;Checking+telemetry+uplink+...+...+%5B+OK+%5D;Checking+navigation+module+...+...+%5B+OK+%5D;Loading+developer+profile+...+...+%5B+OK+%5D;Mounting+stack%3A+PHP+%7C+JS+%7C+SQL+%7C+C%2B%2B+%5B+OK+%5D;Platforms+online+%3A+3+%2F+3+...+...+%5B+NOMINAL+%5D;Experience+log%3A+4+years+...+...+%5B+LOADED+%5D;+;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+100%25+%5D;ALL+SYSTEMS+GO+%E2%96%BA+T-MINUS+ZERO+—+LAUNCH!" alt="Boot Sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=28&pause=400&color=4FC3F7&center=true&vCenter=true&width=850&height=180&lines=%5B+HYPEROS+BOOT+%5D+Starting+Himanshu+OS...;%3E+Kernel+....................+ONLINE;%3E+UI+Shell+..................+LOADED;%3E+Developer+Profile+.........+MOUNTED;%3E+Mission+Database+..........+CONNECTED;%3E+Telemetry+.................+NOMINAL;%3E+All+systems+...............+READY;%3E%3E%3E+WELCOME+TO+HIMANSHU+OS" alt="Himanshu OS Boot"/>
 </a>
 
 <br/>
 
-<!-- ═══ LIVE STATUS BADGES ═══ -->
-<img src="https://img.shields.io/badge/◉_MISSION-ACTIVE-4fc3f7?style=flat-square&labelColor=000d1a"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         OS STATUS BAR                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-4FC3F7?style=for-the-badge&labelColor=111111"/>
 &nbsp;
-<img src="https://img.shields.io/badge/◎_TELEMETRY-NOMINAL-4fc3f7?style=flat-square&labelColor=000d1a"/>
+<img src="https://img.shields.io/badge/◈_KERNEL-v4.0-4FC3F7?style=for-the-badge&labelColor=111111"/>
 &nbsp;
-<img src="https://img.shields.io/badge/◈_UPTIME-4+YEARS-4fc3f7?style=flat-square&labelColor=000d1a"/>
+<img src="https://img.shields.io/badge/◎_TELEMETRY-NOMINAL-4FC3F7?style=for-the-badge&labelColor=111111"/>
 &nbsp;
-<img src="https://img.shields.io/badge/▶_OPEN-TO_WORK-00e676?style=flat-square&labelColor=000d1a"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=himanshu9682&color=4fc3f7&style=flat-square&label=SIGNAL+RECEIVED"/>
+<img src="https://img.shields.io/badge/⚡_UPTIME-4%2B_YEARS-00E676?style=for-the-badge&labelColor=111111"/>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       HYPEROS DESKTOP                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🖥️ PROFILE
+
+HIMANSHU VERMA
+
+Full Stack Web Developer
+
+</td>
+
+<td align="center" width="25%">
+
+📡 STATUS
+
+● ONLINE
+
+OPEN TO WORK
+
+</td>
+
+<td align="center" width="25%">
+
+🧠 MEMORY
+
+~4 YEARS
+
+EXPERIENCE
+
+</td>
+
+<td align="center" width="25%">
+
+🌐 NODE
+
+NOIDA, INDIA
+
+EARTH-01
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=35&pause=1100&color=90CAF9&center=true&vCenter=true&width=900&height=55&lines=%5BHYPEROS%5D+Desktop+loaded+%E2%80%A2+3+active+missions+%E2%80%A2+0+failed;%5BHYPEROS%5D+Developer+environment+ready+%E2%80%A2+Awaiting+input...;%5BHYPEROS%5D+Signal+strength+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+100%25" alt="HyperOS Desktop Status"/>
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══ ASCII NAMEPLATE ═══ -->
+<!--                    HYPEROS WINDOW: IDENTITY                    -->
 
-```
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=20&pause=999999&color=4FC3F7&center=true&vCenter=true&width=650&height=35&lines=%5BHYPEROS+WINDOW%5D+IDENTITY.exe+%E2%80%94+RUNNING"/>
+
+</div>
+
+<br/>
+
+<!-- ═══ HYPEROS WINDOW: USERNAME ═══ -->
+
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║    ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗  ██╗███████╗██╗  ██╗             ║
-║    ██║  ██║██║████╗ ████║██╔══██╗████╗ ██║██╔════╝██║  ██║             ║
-║    ███████║██║██╔████╔██║███████║██╔██╗██║███████╗███████║             ║
-║    ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚████║╚════██║██╔══██║             ║
-║    ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚███║███████║██║  ██║             ║
-║    ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝             ║
+║  ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗  ██╗███████╗██╗  ██╗██╗   ██╗     ║
+║  ██║  ██║██║████╗ ████║██╔══██╗████╗ ██║██╔════╝██║  ██║██║   ██║     ║
+║  ███████║██║██╔████╔██║███████║██╔██╗██║███████╗███████║██║   ██║     ║
+║  ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚████║╚════██║██╔══██║██║   ██║     ║
+║  ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚███║███████║██║  ██║╚██████╔╝     ║
+║  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝ ╚═════╝      ║
 ║                                                                          ║
-║         ◈  MISSION CONTROL  ·  NODE: EARTH  ·  STATUS: ONLINE  ◈        ║
+║           ◈  MISSION CONTROL · NODE: EARTH · STATUS: ONLINE  ◈          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
+
+<br/>
 
 <br/>
 
 <div align="center">
 
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         HYPEROS DOCK                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td align="center">🧑‍💻<br/><b>PROFILE</b></td>
+<td align="center">⚙️<br/><b>SYSTEM</b></td>
+<td align="center">🚀<br/><b>MISSIONS</b></td>
+<td align="center">📊<br/><b>STATS</b></td>
+<td align="center">🪪<br/><b>CREDENTIALS</b></td>
+<td align="center">📡<br/><b>UPLINK</b></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ═══ TELEMETRY FEED ═══ -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&height=45&lines=%5BTELEMETRY%5D+Developer+profile+...+LOCKED+%E2%9C%93;%5BTELEMETRY%5D+Stack+%3A+PHP+%7C+JS+%7C+SQL+%7C+C%2B%2B+%7C+HTML+%7C+CSS;%5BTELEMETRY%5D+Platforms+%3A+3+LIVE+%2F+0+DOWN+%E2%9C%93;%5BTELEMETRY%5D+Mission+duration+%3A+~4+years+%E2%9C%93;%5BTELEMETRY%5D+Objective+%3A+OPEN+TO+WORK+%E2%96%BA" alt="Telemetry" />
 </a>
@@ -58,9 +157,8 @@
 
 <br/>
 
----
-
 <!-- ═══ IDENTITY MODULE ═══ -->
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=9999&color=4FC3F7&center=true&vCenter=true&width=520&height=28&lines=%5B+FLIGHT+COMPUTER+%E2%80%94+DECRYPTING+IDENTITY+MODULE...+%5D" />
@@ -69,7 +167,6 @@
 
 <br/>
 
-```javascript
 // ╔══════════════════════════════════════════════════════════════════╗
 // ║         MISSION CONTROL — ASTRONAUT FILE  v4.0                  ║
 // ║         CLEARANCE : LEVEL 5 — FULL ACCESS GRANTED               ║
@@ -104,13 +201,35 @@ MISSION_PROFILE.launch();
 // ◈ ══════════ ALL SYSTEMS GO ══════════ ◈
 // ▶  T-MINUS ZERO — INITIATING LAUNCH...
 // 🚀 LIFTOFF CONFIRMED.
-```
 
 <br/>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=20&pause=999999&color=4FC3F7&center=true&vCenter=true&width=650&height=35&lines=%5BHYPEROS+TERMINAL%5D+terminal.app+%E2%80%94+ACTIVE"/>
+
+</div>
+
+┌──────────────────────────────────────────────────────────────────────┐
+│ ● ● ●   HIMANSHU OS TERMINAL                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  himanshu@hyperos:~$ whoami                                         │
+│  > Himanshu Verma                                                    │
+│                                                                      │
+│  himanshu@hyperos:~$ systemctl status developer                      │
+│  > ● developer.service — ACTIVE                                      │
+│  > ● profile.service   — ONLINE                                     │
+│  > ● mission.service   — RUNNING                                    │
+│  > ● telemetry.service — NOMINAL                                    │
+│                                                                      │
+│  himanshu@hyperos:~$ _                                              │
+└──────────────────────────────────────────────────────────────────────┘
+
+<br/>
 
 <!-- ═══ SYSTEMS CHECK ═══ -->
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=9999&color=4FC3F7&center=true&vCenter=true&width=520&height=28&lines=%5B+RUNNING+SYSTEMS+CHECK+—+ALL+MODULES+%5D" />
@@ -119,7 +238,6 @@ MISSION_PROFILE.launch();
 
 <br/>
 
-```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║  MISSION CONTROL  ▸  root@himanshu:~$ run --systems-check --verbose      ║
 ╠══════════════════════════════════════════════════════════════════════════╣
@@ -138,30 +256,28 @@ MISSION_PROFILE.launch();
 ║                                                                          ║
 ║  RESULT ─────────────────────────────────── [ ALL SYSTEMS NOMINAL ✓ ]   ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000d1a?style=for-the-badge&logo=javascript&logoColor=4fc3f7)
-![PHP](https://img.shields.io/badge/PHP-000d1a?style=for-the-badge&logo=php&logoColor=4fc3f7)
-![C++](https://img.shields.io/badge/C++-000d1a?style=for-the-badge&logo=cplusplus&logoColor=4fc3f7)
-![HTML5](https://img.shields.io/badge/HTML5-000d1a?style=for-the-badge&logo=html5&logoColor=4fc3f7)
-![CSS3](https://img.shields.io/badge/CSS3-000d1a?style=for-the-badge&logo=css3&logoColor=4fc3f7)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-000d1a?style=for-the-badge&logo=oracle&logoColor=4fc3f7)
-![VS Code](https://img.shields.io/badge/VS_Code-000d1a?style=for-the-badge&logo=visualstudiocode&logoColor=4fc3f7)
-![GitHub](https://img.shields.io/badge/GitHub-000d1a?style=for-the-badge&logo=github&logoColor=4fc3f7)
-![Figma](https://img.shields.io/badge/Figma-000d1a?style=for-the-badge&logo=figma&logoColor=4fc3f7)
-![JIRA](https://img.shields.io/badge/JIRA-000d1a?style=for-the-badge&logo=jira&logoColor=4fc3f7)
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
 <br/>
 
----
-
 <!-- ═══ ACTIVE MISSIONS ═══ -->
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=9999&color=4FC3F7&center=true&vCenter=true&width=520&height=28&lines=%5B+ACTIVE+MISSIONS+—+LIVE+STATUS+FEED+%5D" />
@@ -170,7 +286,6 @@ MISSION_PROFILE.launch();
 
 <br/>
 
-```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║  root@himanshu:~$ mission --list --filter=active --telemetry             ║
 ╠══════════════════════════════════════════════════════════════════════════╣
@@ -199,13 +314,11 @@ MISSION_PROFILE.launch();
 ║  ══════════════════════════════════════════════════════════════════════  ║
 ║  TOTAL : 3 ACTIVE  |  0 ABORTED  |  0 FAILED  |  SUCCESS RATE : 100%    ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
----
-
 <!-- ═══ MISSION LOG ═══ -->
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=9999&color=4FC3F7&center=true&vCenter=true&width=520&height=28&lines=%5B+MISSION+LOG+—+DECRYPTING+FLIGHT+HISTORY...+%5D" />
@@ -214,7 +327,6 @@ MISSION_PROFILE.launch();
 
 <br/>
 
-```bash
 root@himanshu:~$ cat /var/log/mission-history.log
 
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -241,13 +353,11 @@ root@himanshu:~$ cat /var/log/mission-history.log
 ║  ╰─ MISSION  : DB management & query optimization                        ║
 ║  ╰─ SIGNAL   : ████████████████████████ ◎ COMPLETED                      ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
----
-
 <!-- ═══ FLIGHT DIAGNOSTICS / STATS ═══ -->
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -272,9 +382,8 @@ root@himanshu:~$ cat /var/log/mission-history.log
 
 <br/>
 
----
-
 <!-- ═══ CREDENTIALS ═══ -->
+
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=9999&color=4FC3F7&center=true&vCenter=true&width=520&height=28&lines=%5B+VERIFYING+MISSION+CREDENTIALS...+%5D" />
@@ -283,7 +392,6 @@ root@himanshu:~$ cat /var/log/mission-history.log
 
 <br/>
 
-```json
 root@himanshu:~$ cat credentials.json | verify --all
 
 {
@@ -294,13 +402,19 @@ root@himanshu:~$ cat credentials.json | verify --all
 }
 
 >> IDENTITY CONFIRMED — CLEARANCE LEVEL 5 — ALL ACCESS GRANTED ✓
-```
 
 <br/>
 
----
+<div align="center">
+
+🔔 HYPEROS NOTIFICATION — Developer is ready to collaborate.
+
+<br/>
+
+</div>
 
 <!-- ═══ UPLINK ═══ -->
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -309,10 +423,10 @@ root@himanshu:~$ cat credentials.json | verify --all
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000d1a?style=for-the-badge&logo=linkedin&logoColor=4fc3f7)](https://www.linkedin.com/in/himanshu3992/)
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000d1a?style=for-the-badge&logo=firefox&logoColor=4fc3f7)](https://himanshu9682.github.io/Himanshu-Portfolio/)
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-000d1a?style=for-the-badge&logo=github&logoColor=4fc3f7)](https://github.com/himanshu9682)
-[![Email](https://img.shields.io/badge/◈_EMAIL-000d1a?style=for-the-badge&logo=gmail&logoColor=4fc3f7)](mailto:himanshu.hv3992@gmail.com)
+
+
+
+
 
 <br/><br/>
 
@@ -322,7 +436,13 @@ root@himanshu:~$ cat credentials.json | verify --all
 
 <br/><br/>
 
-<!-- ═══ FOOTER ═══ -->
+<!-- ═══ HYPEROS SHUTDOWN SCREEN ═══ -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:000d1a,70:001433,100:000000&height=150&section=footer&text=◈%20MISSION%20COMPLETE%20—%20ALL%20SYSTEMS%20NOMINAL%20◈&fontSize=14&fontColor=4fc3f7&animation=fadeIn&desc=T-PLUS%20INFINITY%20—%20STILL%20BUILDING&descSize=11&descColor=0288d1&descAlignY=70" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/HYPEROS_SESSION-TERMINATED-4FC3F7?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SYSTEM-READY_FOR_NEXT_SESSION-00E676?style=for-the-badge&labelColor=050505"/>
 
 </div>
