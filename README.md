@@ -1,140 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0a0a,100:000000&height=160&section=header&text=HIMANSHU%20VERMA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=00d2ff&strokeWidth=2&desc=Software%20Engineer%20%E2%80%94%20Building%20at%20the%20intersection%20of%20code%20%26%20scale&descAlignY=68&descSize=14&descColor=888888" />
+<!-- MATRIX RAIN HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=220&section=header&text=HIMANSHU%20VERMA&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=45&stroke=00ff41&strokeWidth=1.5&desc=%5B%20FULL%20STACK%20ENGINEER%20%5D%20%E2%80%94%20%5B%20SYSTEM%20ONLINE%20%5D&descAlignY=65&descSize=13&descColor=00cc33" />
 
-<br/>
-
+<!-- GLITCH TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00D2FF&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+Oracle+SQL;Building+Platforms+that+Scale;~4+Years+of+Engineering+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=%24+whoami+%E2%86%92+himanshu_verma;%24+cat+role.txt+%E2%86%92+Full+Stack+Developer;%24+ls+skills%2F+%E2%86%92+PHP+JS+SQL+C%2B%2B+HTML+CSS;%24+uptime+%E2%86%92+4%2B+years+of+engineering;%24+status+%E2%86%92+BUILDING...+%E2%96%88" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=himanshu9682&color=0d1117&style=flat-square&label=profile+views)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/himanshu9682?style=flat-square&color=ffffff&labelColor=0d1117&label=followers)](https://github.com/himanshu9682)
-
-</div>
-
 <br/>
 
-```javascript
-const himanshu = {
-  role     : "Full Stack Web Developer",
-  stack    : ["PHP", "JavaScript", "HTML", "CSS", "Oracle SQL", "C++"],
-  tools    : ["VS Code", "Figma", "JIRA", "GitHub"],
-  focus    : ["Scalable Web Apps", "Back-End Architecture", "Database Design"],
-  location : "Noida, India",
-  status   : "open_to_work → true"
-};
-```
-
-<br/>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; T E C H &nbsp; S T A C K &nbsp; ◈
-
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=F80000)
-
-<br/>
-
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![JIRA](https://img.shields.io/badge/JIRA-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; P R O J E C T S &nbsp; ◈
-
-</div>
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ▸  prepHQ          →  Tech interview & career-prep platform       │
-│                          Built for IoT Academy learners             │
-│                          [ Feb 2026 – Present ]  ●  LIVE            │
-│                                                                     │
-│   ▸  The IoT Academy →  Full ed-tech platform                       │
-│                          LMS + Curriculum + IoT/AI/Embedded         │
-│                          [ Nov 2024 – Present ]  ●  LIVE            │
-│                                                                     │
-│   ▸  upSkill Campus  →  20+ courses, internships & job-readiness    │
-│                          Career-upskilling ed-tech platform         │
-│                          [ Nov 2024 – Present ]  ●  LIVE            │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; E X P E R I E N C E &nbsp; ◈
-
-</div>
-
-<br/>
-
-```
-  UniConverge Technologies   ──────────────────────  Nov 2023 → Present
-  Research, Content & Cross-Functional Execution Lead
-  └── Led development of 3 platforms end-to-end
-  └── Full-stack build: LMS, website integration, QA & launch
-
-  EPIS Pvt. Ltd.             ──────────────────────  Feb 2023 → Oct 2023
-  Full-Stack Web Developer
-  └── Built scalable back-end solutions
-  └── 4-member dev team | clean, maintainable code
-
-  Velocity India             ──────────────────────  Oct 2022 → Jan 2023
-  Web Developer Intern
-  └── Led front-end of Employee Feedback System
-  └── 8-developer team | UI/UX focused delivery
-
-  Zuxus Business Solution    ──────────────────────  Jul 2022 → Oct 2022
-  Database Administrator Intern
-  └── DB management & query optimization
-```
-
-<br/>
-
----
-
-<div align="center">
-
-### ◈ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ◈
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanshu9682&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&ring_color=00d2ff" height="160"/>
+<!-- ANIMATED BADGES -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000&logo=statuspage&logoColor=00ff41"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9682&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" height="160"/>
+<img src="https://img.shields.io/badge/LOCATION-NOIDA%2C%20INDIA-00ff41?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=00ff41"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=himanshu9682&color=00ff41&style=flat-square&label=VISITORS"/>
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/himanshu9682?style=flat-square&color=00ff41&labelColor=000000&label=FOLLOWERS)](https://github.com/himanshu9682)
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu9682&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<br/>
+
+---
+
+<!-- BOOT SEQUENCE -->
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║                  [ SYSTEM BOOT SEQUENCE ]                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  > Initializing kernel...                          [ OK ]        ║
+║  > Loading developer profile...                    [ OK ]        ║
+║  > Mounting stack: PHP / JS / SQL / C++ / HTML     [ OK ]        ║
+║  > Connecting to 3 live platforms...               [ OK ]        ║
+║  > Experience module: 4 years loaded               [ OK ]        ║
+║  > Status: READY TO BUILD                          [ ██████ ]    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<!-- IDENTITY CARD -->
+```javascript
+// ┌─────────────────────────────────────────────────────┐
+// │           DEVELOPER IDENTITY CARD v2.0              │
+// └─────────────────────────────────────────────────────┘
+
+const dev = {
+  name       : "Himanshu Verma",
+  role       : "Full Stack Web Developer",
+  stack      : ["PHP", "JavaScript", "HTML5", "CSS3", "Oracle SQL", "C++"],
+  tools      : ["VS Code", "GitHub", "Figma", "JIRA"],
+  focus      : ["Scalable Web Apps", "Back-End Architecture", "DB Design"],
+  platforms  : ["prepHQ", "The IoT Academy", "upSkill Campus"],
+  experience : "~4 years",
+  location   : "Noida, India 🇮🇳",
+  openTo     : true,   // ← available for opportunities
+
+  execute    : () => console.log("[ SHIPPING CODE... ]")
+};
+
+dev.execute();
+// OUTPUT → [ SHIPPING CODE... ]
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+<!-- SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+TECH+STACK+INITIALIZED+%5D" />
+
+</div>
+
+<br/>
+
+<!-- TECH STACK TERMINAL STYLE -->
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  root@himanshu:~$ cat /etc/tech-stack                            │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  LANGUAGES     ──────────────────────────────────────────────    │
+│  ▸ JavaScript  ████████████████████░░░░  [ ADVANCED ]           │
+│  ▸ PHP         ████████████████████░░░░  [ ADVANCED ]           │
+│  ▸ C++         ████████████████░░░░░░░░  [ INTERMEDIATE ]       │
+│  ▸ Oracle SQL  ████████████████████░░░░  [ ADVANCED ]           │
+│  ▸ HTML5/CSS3  ████████████████████████  [ EXPERT ]             │
+│                                                                  │
+│  TOOLS         ──────────────────────────────────────────────    │
+│  ▸ VS Code  ▸ GitHub  ▸ Figma  ▸ JIRA                           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00ff41)
+![JIRA](https://img.shields.io/badge/JIRA-000000?style=for-the-badge&logo=jira&logoColor=00ff41)
 
 </div>
 
@@ -143,15 +121,91 @@ const himanshu = {
 ---
 
 <div align="center">
-
-### ◈ &nbsp; C E R T I F I C A T I O N S &nbsp; ◈
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+PROJECTS+DEPLOYED+%5D" />
+</div>
 
 <br/>
 
-![Oracle](https://img.shields.io/badge/Oracle_DB_11g_RAC-Skillsoft-000000?style=flat-square&logo=oracle&logoColor=F80000)
-![JIRA](https://img.shields.io/badge/JIRA_Project_Mgmt-Great_Learning-000000?style=flat-square&logo=jira&logoColor=0052CC)
-![.NET](https://img.shields.io/badge/.NET_OOPs-Great_Learning-000000?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-Certified-000000?style=flat-square&logo=openai&logoColor=ffffff)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@himanshu:~$ ls -la /projects/                                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ▸ prepHQ/                                                           ║
+║    ├── type    : Tech Interview & Career-Prep Platform               ║
+║    ├── stack   : Full-Stack | LMS Integration                        ║
+║    ├── since   : Feb 2026                                            ║
+║    └── status  : ● LIVE ──────────────────────────────────────────   ║
+║                                                                      ║
+║  ▸ theIoTAcademy/                                                    ║
+║    ├── type    : Ed-Tech Platform | IoT / AI / Embedded              ║
+║    ├── stack   : Full-Stack | Curriculum + LMS + QA                  ║
+║    ├── since   : Nov 2024                                            ║
+║    └── status  : ● LIVE ──────────────────────────────────────────   ║
+║                                                                      ║
+║  ▸ upSkillCampus/                                                    ║
+║    ├── type    : Career Upskilling | 20+ Courses                     ║
+║    ├── stack   : Full-Stack | Internship + Placement Content         ║
+║    ├── since   : Nov 2024                                            ║
+║    └── status  : ● LIVE ──────────────────────────────────────────   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+WORK+HISTORY+LOADED+%5D" />
+</div>
+
+<br/>
+
+```bash
+root@himanshu:~$ cat experience.log
+
+  [2023-11 → NOW ]  UniConverge Technologies
+                    ╰─ Role   : Research, Content & Cross-Functional Lead
+                    ╰─ Build  : 3 platforms end-to-end (LMS + Web + QA)
+                    ╰─ Stack  : Full-Stack | PHP | JS | Oracle SQL
+
+  [2023-02 → 2023-10]  EPIS Pvt. Ltd.
+                    ╰─ Role   : Full-Stack Web Developer
+                    ╰─ Build  : Scalable back-end systems
+                    ╰─ Team   : 4-member dev squad
+
+  [2022-10 → 2023-01]  Velocity India
+                    ╰─ Role   : Web Developer Intern
+                    ╰─ Build  : Employee Feedback System (Front-End Lead)
+                    ╰─ Team   : 8-developer team
+
+  [2022-07 → 2022-10]  Zuxus Business Solution
+                    ╰─ Role   : Database Administrator Intern
+                    ╰─ Build  : DB management & query optimization
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+SYSTEM+DIAGNOSTICS+%5D" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=himanshu9682&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41&border_color=00ff41" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9682&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9682&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&currStreakNum=00ff41&sideNums=00ff41&stroke=00ff41" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu9682&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true" width="95%"/>
 
 </div>
 
@@ -160,18 +214,48 @@ const himanshu = {
 ---
 
 <div align="center">
-
-### ◈ &nbsp; C O N N E C T &nbsp; ◈
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+CERTIFICATIONS+VERIFIED+%5D" />
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/himanshu3992/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00d2ff)](https://himanshu9682.github.io/Himanshu-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/himanshu9682)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:himanshu.hv3992@gmail.com)
+```
+root@himanshu:~$ cat certs.json
+
+  {
+    "Oracle DB 11g RAC"    : { "issuer": "Skillsoft",     "status": "VERIFIED ✓" },
+    "JIRA Project Mgmt"    : { "issuer": "Great Learning", "status": "VERIFIED ✓" },
+    ".NET OOPs"            : { "issuer": "Great Learning", "status": "VERIFIED ✓" },
+    "Prompt Engineering"   : { "issuer": "Certified",      "status": "VERIFIED ✓" }
+  }
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+ESTABLISHING+CONNECTION...+%5D" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=100&section=footer&reversal=false" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/himanshu3992/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://himanshu9682.github.io/Himanshu-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/himanshu9682)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:himanshu.hv3992@gmail.com)
+
+<br/><br/>
+
+```
+> CONNECTION ESTABLISHED
+> PING himanshu.hv3992@gmail.com ... 1ms
+> ALL SYSTEMS OPERATIONAL
+> READY TO COLLABORATE ██████████ 100%
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=120&section=footer&text=%5B%20EOF%20%5D&fontSize=16&fontColor=00ff41&animation=fadeIn" />
 
 </div>
