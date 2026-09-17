@@ -1,444 +1,243 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:0f766e,70:0369a1,100:020617&text=HIMANSHU%20VERMA&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SEO%20STRATEGIST%20%E2%80%A2%20PROMPT%20ENGINEER&descAlignY=61&descSize=15&animation=fadeIn&stroke=22d3ee&strokeWidth=1" alt="Himanshu Verma" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:000d1a,50:001433,75:0a2a4a,100:000000&height=300&section=header&text=HIMANSHU%20OS&fontSize=78&fontColor=4FC3F7&animation=fadeIn&fontAlignY=38&stroke=4FC3F7&strokeWidth=2&desc=◈%20HYPEROS%20v5.0%20—%20NEXT%20GEN%20DEVELOPER%20ENVIRONMENT%20◈&descAlignY=60&descSize=15&descColor=00E5FF"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&random=false&width=820&height=70&lines=%3E+Building+production-ready+web+experiences_;%3E+React+%2B+Node.js+%2B+MySQL+%2B+REST+APIs_;%3E+Engineering+growth+with+code+and+SEO_;%3E+Turning+complexity+into+measurable+impact_" alt="Animated developer introduction" />
+  </a>
 
-<br/>
+  <p>
+    <a href="mailto:himanshu.hv3992@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Himanshu" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/himanshu3992"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>&nbsp;
+    <a href="https://github.com/himanshu3992?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=18&pause=300&color=4FC3F7&center=true&vCenter=true&width=900&height=200&lines=███+HYPEROS+BOOT+SEQUENCE+INITIATED+███;[BIOS]+Checking+hardware+integrity...+OK+✓;[KERNEL]+Loading+core+modules...+██████████+100%25;[SYSTEM]+Mounting+developer+profile...+DONE+✓;[NET]+Uplink+established+—+Signal+100%25+✓;[SEC]+Clearance+Level+5+—+ACCESS+GRANTED+🔓;[AI]+Neural+interface+...+SYNCHRONIZED;[ENV]+Full+Stack+environment+...+ARMED+🚀;[SYS]+All+systems+nominal+—+LIFTOFF+READY+✓;>>>+WELCOME+TO+HIMANSHU+OS+—+HYPEROS+v5.0"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/◈_KERNEL-v5.0-4FC3F7?style=for-the-badge&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_UPTIME-4%2B_YEARS-00E676?style=for-the-badge&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🛰_TELEMETRY-NOMINAL-7C4DFF?style=for-the-badge&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_STATUS-OPEN_TO_WORK-00E676?style=for-the-badge&labelColor=000d1a"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2500&pause=400&color=00E5FF&center=true&vCenter=true&width=950&height=30&lines=[HYPEROS]+▰▰▰▰▰+Signal+100%25+•+3+Active+Missions+•+0+Failed+•+Uptime+4%2B+Years+•+Node:+Earth-01+▰▰▰▰▰"/>
-
+  <img src="https://komarev.com/ghpvc/?username=himanshu3992&label=PROFILE+VISITORS&color=0891b2&style=flat-square" alt="Profile visitor count" />
 </div>
 
-<br/>
+<br />
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  IDENTITY MODULE                      -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+HYPEROS+▶+IDENTITY.exe+—+DECRYPTING...+CLEARANCE+LEVEL+5+]"/>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║  ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗  ██╗███████╗██╗  ██╗██╗   ██╗     ║
-║  ██║  ██║██║████╗ ████║██╔══██╗████╗ ██║██╔════╝██║  ██║██║   ██║     ║
-║  ███████║██║██╔████╔██║███████║██╔██╗██║███████╗███████║██║   ██║     ║
-║  ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚████║╚════██║██╔══██║██║   ██║     ║
-║  ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚███║███████║██║  ██║╚██████╔╝     ║
-║  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ║
-║                                                                          ║
-║        ◈  CALLSIGN: himanshu9682  ◈  NODE: EARTH-01  ◈  ONLINE  ◈      ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
+## `> whoami`
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="58%" valign="top">
 
-**🖥️ PROFILE**
+### Engineer by craft. Growth strategist by impact.
 
-**HIMANSHU VERMA**
+I build performant digital products where **full-stack engineering**, **AI**, and **organic growth** work as one system.
 
-Full Stack Dev
-
-`himanshu9682`
-
-</td>
-<td align="center" width="25%">
-
-**🟢 STATUS**
-
-**● ONLINE**
-
-OPEN TO WORK
-
-`DEPLOY READY 🚀`
+- 🔭 Leading technical delivery, content, and SEO initiatives
+- ⚡ Shipped full-stack client products with zero critical launch bugs
+- 📈 Scaled organic impressions from **2.5M to 26.5M**
+- 🧠 Exploring intelligent workflows with Generative AI and LLM prompting
+- 📍 Based in **Noida, India**
+- 💬 Ask me about **React, Node.js, MySQL, REST APIs, SEO, or Prompt Engineering**
 
 </td>
-<td align="center" width="25%">
+<td width="42%" valign="top">
 
-**🧠 MEMORY**
+```typescript
+interface Developer {
+  name: string;
+  focus: string[];
+  superpower: string;
+}
 
-**~4 YEARS**
-
-EXPERIENCE
-
-`UPTIME: 100%`
-
-</td>
-<td align="center" width="25%">
-
-**🌐 NODE**
-
-**NOIDA, INDIA**
-
-EARTH-01
-
-`UTC+5:30`
+const me: Developer = {
+  name: "Himanshu Verma",
+  focus: [
+    "Full-Stack Development",
+    "Technical SEO",
+    "AI-Powered Systems"
+  ],
+  superpower:
+    "Code that gets discovered"
+};
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2200&pause=1000&color=4FC3F7&center=true&vCenter=true&width=860&height=50&lines=[TELEMETRY]+Stack:+PHP+|+JS+|+SQL+|+C%2B%2B+|+HTML5+|+CSS3+✓;[TELEMETRY]+Platforms:+3+LIVE+/+0+DOWN+•+Mission+Duration:+~4+Years+✓;[TELEMETRY]+Objective:+OPEN+TO+WORK+▶+Awaiting+Transmission..."/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  MISSION PROFILE                      -->
-<!-- ══════════════════════════════════════════════════════ -->
+## `> impact --metrics`
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+FLIGHT+COMPUTER+—+DECRYPTING+ASTRONAUT+FILE+v5.0...+]"/>
+
+<table>
+<tr>
+<td align="center"><h2>960%</h2><sub>Organic impression growth</sub></td>
+<td align="center"><h2>6.3M</h2><sub>Organic clicks generated</sub></td>
+<td align="center"><h2>35%</h2><sub>Faster page performance</sub></td>
+<td align="center"><h2>60%</h2><sub>Less manual reporting</sub></td>
+</tr>
+<tr>
+<td align="center"><h2>100+</h2><sub>Assets delivered</sub></td>
+<td align="center"><h2>50+</h2><sub>Keywords improved</sub></td>
+<td align="center"><h2>3+</h2><sub>Years of experience</sub></td>
+<td align="center"><h2>3</h2><sub>Client projects shipped</sub></td>
+</tr>
+</table>
+
 </div>
 
-<br/>
+---
 
-```js
-// ╔══════════════════════════════════════════════════════════════════════╗
-// ║   HYPEROS v5.0  ◈  MISSION CONTROL — ASTRONAUT FILE                 ║
-// ║   CLEARANCE : LEVEL 5 — FULL ACCESS GRANTED  🔓                     ║
-// ╚══════════════════════════════════════════════════════════════════════╝
+## `> stack --animated`
 
-const HIMANSHU_OS = {
-  callsign    : "himanshu9682",
-  name        : "Himanshu Verma",
-  role        : "Full Stack Web Developer",
-  base        : "Noida, India 🌍",
-  uptime      : "~4 years",
+<div align="center">
 
-  stack : {
-    languages  : ["PHP", "JavaScript", "C++", "HTML5", "CSS3", "Oracle SQL"],
-    tools      : ["VS Code", "GitHub", "Figma", "JIRA"],
-    objectives : ["Scalable Web Apps", "Back-End Architecture", "DB Design"],
-  },
+### Frontend Systems
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark&perline=8" alt="React, JavaScript, HTML, CSS" />
 
-  activeMissions : ["prepHQ ◉ LIVE", "The IoT Academy ◉ LIVE", "upSkill Campus ◉ LIVE"],
-  deployStatus   : "OPEN_TO_DEPLOY → true 🚀",
+### Backend, Data & Languages
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,python,cpp&theme=dark&perline=8" alt="Node.js, PHP, MySQL, Python, C++" />
 
-  boot : () => {
-    console.log("◈ ══════════ HYPEROS v5.0 ONLINE ══════════ ◈");
-    console.log("▶  ALL SYSTEMS NOMINAL — INITIATING LAUNCH...");
-    console.log("🚀 T-MINUS ZERO — LIFTOFF CONFIRMED.");
-  }
-};
+### Workflow & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress&theme=dark&perline=8" alt="Git, GitHub, VS Code, WordPress" />
 
-HIMANSHU_OS.boot();
-// ◈ ══════════ HYPEROS v5.0 ONLINE ══════════ ◈
-// ▶  ALL SYSTEMS NOMINAL — INITIATING LAUNCH...
-// 🚀 T-MINUS ZERO — LIFTOFF CONFIRMED.
+<br />
+
+<img src="https://img.shields.io/badge/REST_APIs-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Technical_SEO-0369A1?style=for-the-badge&logo=google-search-console&logoColor=white" alt="Technical SEO" />
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-C026D3?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering" />
+
+</div>
+
+---
+
+## `> projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full-Stack Client Portal
+
+A production-ready client platform engineered to replace repetitive reporting with automated workflows.
+
+**Architecture**  
+`React` · `Node.js` · `MySQL` · `REST APIs`
+
+**Impact**
+- Cut manual reporting effort by **60%**
+- Improved average page speed by **~35%**
+- Delivered with **zero critical launch bugs**
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Organic Growth Engine
+
+A two-year content intelligence system powered by search intent, topical authority, and performance data.
+
+**Toolkit**  
+`Search Console` · `Ahrefs` · `Analytics` · `WordPress`
+
+**Impact**
+- Grew impressions from **2.5M → 26.5M**
+- Scaled organic clicks from **8K → 6.3M**
+- Improved visibility for **50+ keywords**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎓 IIT-Roorkee & prepHQ Digital Platforms
+
+Led end-to-end execution across technical, SEO, and editorial teams for high-priority education initiatives—coordinating complex workflows and delivering **100+ content assets on schedule**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> experience --timeline`
+
+```text
+╭─ 2025 — NOW ─────────────────────────────────────────────────────╮
+│  EXECUTION & CONTENT TEAM LEAD                                   │
+│  Leading cross-functional delivery for IIT-Roorkee and prepHQ    │
+╰──────────────────────────────────────────────────────────────────╯
+                              │
+╭─ 2024 — 2025 ────────────────────────────────────────────────────╮
+│  SENIOR CONTENT STRATEGIST                                       │
+│  Engineered 960% impression growth and 6.3M organic clicks       │
+╰──────────────────────────────────────────────────────────────────╯
+                              │
+╭─ 2023 — 2024 ────────────────────────────────────────────────────╮
+│  TECHNICAL CONTENT DEVELOPER                                     │
+│  Published developer-focused content across AI, Python, and IoT  │
+╰──────────────────────────────────────────────────────────────────╯
+                              │
+╭─ 2023 ───────────────────────────────────────────────────────────╮
+│  FULL STACK WEB DEVELOPER                                        │
+│  Shipped React, Node.js, and MySQL products for real clients     │
+╰──────────────────────────────────────────────────────────────────╯
+                              │
+╭─ 2022 — 2023 ────────────────────────────────────────────────────╮
+│  WEB DEVELOPMENT & DATABASE INTERNSHIPS                           │
+│  Built interfaces and optimized MySQL queries by approximately 40%│
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
-<br/>
+---
+
+## `> github --live`
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+HYPEROS+TERMINAL+—+ACTIVE+SESSION+]"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshu3992&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=2dd4bf&text_color=cbd5e1&ring_color=22d3ee" alt="Himanshu Verma's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=himanshu3992&hide_border=true&background=020617&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="Himanshu Verma's GitHub streak" />
+
+  <br />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu3992&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1" alt="Himanshu Verma's most used languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=himanshu3992&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=3&row=2" alt="Himanshu Verma's GitHub trophies" />
+
+  <br />
+
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu3992&bg_color=020617&color=cbd5e1&line=22d3ee&point=2dd4bf&area=true&area_color=0f766e&hide_border=true&custom_title=Contribution%20Activity" alt="Himanshu Verma's contribution activity graph" />
 </div>
 
-<br/>
+---
 
-```bash
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ● ● ●   HIMANSHU OS — HYPEROS v5.0 TERMINAL                           │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│  himanshu@hyperos:~$ whoami                                             │
-│  ► Himanshu Verma — Full Stack Web Developer                            │
-│                                                                         │
-│  himanshu@hyperos:~$ systemctl status --all                             │
-│  ◉ developer.service   — ACTIVE    [████████████] 100%                  │
-│  ◉ backend.service     — RUNNING   [████████████] 100%                  │
-│  ◉ frontend.service    — RUNNING   [████████████] 100%                  │
-│  ◉ database.service    — ONLINE    [████████████] 100%                  │
-│  ◉ mission.service     — ARMED     [████████████] 100%                  │
-│  ◉ telemetry.service   — NOMINAL   [████████████] 100%                  │
-│                                                                         │
-│  himanshu@hyperos:~$ uptime --verbose                                   │
-│  ► 4+ years  |  3 missions live  |  0 failures  |  100% uptime         │
-│                                                                         │
-│  himanshu@hyperos:~$ █                                                  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+## `> credentials --list`
 
-<br/>
+<table>
+<tr>
+<td>🎓</td><td><strong>B.Sc. Computer Science</strong><br/><sub>Mahatma Gandhi Kashi Vidyapith</sub></td>
+<td>🤖</td><td><strong>Certified Prompt Engineer</strong><br/><sub>Effective Prompt Writing & Engineering</sub></td>
+</tr>
+<tr>
+<td>💻</td><td><strong>C++ Programming</strong><br/><sub>Professional Certification</sub></td>
+<td>🗄️</td><td><strong>SQL</strong><br/><sub>Professional Certification</sub></td>
+</tr>
+<tr>
+<td>🌌</td><td><strong>National Space Day Quiz</strong><br/><sub>Top Performer</sub></td>
+<td>🌟</td><td><strong>Employee of the Month</strong><br/><sub>UniConverge Technologies</sub></td>
+</tr>
+</table>
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  SYSTEMS CHECK                        -->
-<!-- ══════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+RUNNING+SYSTEMS+CHECK+—+ALL+MODULES+]"/>
+## `> initialize_collaboration`
 
-<br/><br/>
+### Have a product to build, a system to optimize, or a growth problem to solve?
 
-<img src="https://skillicons.dev/icons?i=php,js,cpp,html,css,mysql&theme=dark&perline=6"/>
+<a href="mailto:himanshu.hv3992@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-0891B2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation" /></a>
 
-<br/><br/>
+<br /><br />
 
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,linux&theme=dark&perline=6"/>
-
-</div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  HYPEROS  ▸  root@himanshu:~$ run --systems-check --verbose              ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║  ◈  HTML5 / CSS3   ██████████████████████████  95%  [ EXPERT       ] ✓  ║
-║  ◈  JavaScript     ████████████████████████░░  90%  [ ADVANCED     ] ✓  ║
-║  ◈  PHP            ████████████████████████░░  90%  [ ADVANCED     ] ✓  ║
-║  ◈  Oracle SQL     ███████████████████████░░░  88%  [ ADVANCED     ] ✓  ║
-║  ◈  C++            ████████████████████░░░░░░  75%  [ INTERMEDIATE ] ✓  ║
-║                                                                          ║
-║  SUPPORT SYSTEMS ──────────────────────────────────────────────────      ║
-║  ◎  VS Code   ◎  GitHub   ◎  Figma   ◎  JIRA   ◎  Linux                 ║
-║                                                                          ║
-║  RESULT ─────────────────── [ ALL SYSTEMS NOMINAL ✓  ARMED 🚀 ]         ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5%2FCSS3-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PHP-90%25-4FC3F7?style=for-the-badge&logo=php&logoColor=white&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle_SQL-88%25-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-75%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000d1a"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  ACTIVE MISSIONS                      -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+ACTIVE+MISSIONS+—+LIVE+STATUS+FEED+]"/>
-</div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  root@himanshu:~$ mission --list --filter=active --telemetry             ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║  ◉  MISSION-01 : prepHQ                            [ LIVE 🟢 ]          ║
-║     ├── OBJECTIVE   : Tech Interview & Career-Prep Platform              ║
-║     ├── SYSTEMS     : Full-Stack | LMS Integration                       ║
-║     ├── LAUNCH DATE : Feb 2026                                           ║
-║     ├── CREW        : UniConverge Technologies                           ║
-║     └── TELEMETRY   : ████████████████████████████ NOMINAL ✓             ║
-║                                                                          ║
-║  ◉  MISSION-02 : The IoT Academy                   [ LIVE 🟢 ]          ║
-║     ├── OBJECTIVE   : Ed-Tech | IoT / AI / Embedded Systems              ║
-║     ├── SYSTEMS     : Full-Stack | Curriculum + LMS + QA                 ║
-║     ├── LAUNCH DATE : Nov 2024                                           ║
-║     ├── CREW        : UniConverge Technologies                           ║
-║     └── TELEMETRY   : ████████████████████████████ NOMINAL ✓             ║
-║                                                                          ║
-║  ◉  MISSION-03 : upSkill Campus                    [ LIVE 🟢 ]          ║
-║     ├── OBJECTIVE   : Career Upskilling | 20+ Courses                    ║
-║     ├── SYSTEMS     : Full-Stack | Internship + Placement Content        ║
-║     ├── LAUNCH DATE : Nov 2024                                           ║
-║     ├── CREW        : UniConverge Technologies                           ║
-║     └── TELEMETRY   : ████████████████████████████ NOMINAL ✓             ║
-║                                                                          ║
-║  ══════════════════════════════════════════════════════════════════════  ║
-║  TOTAL : 3 ACTIVE  |  0 ABORTED  |  0 FAILED  |  SUCCESS RATE : 100% 🚀 ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/◉_prepHQ-LIVE-00E676?style=for-the-badge&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/◉_IoT_Academy-LIVE-00E676?style=for-the-badge&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/◉_upSkill_Campus-LIVE-00E676?style=for-the-badge&labelColor=000d1a"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  MISSION LOG                          -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+MISSION+LOG+—+DECRYPTING+FLIGHT+HISTORY...+]"/>
-</div>
-
-<br/>
-
-```
-root@himanshu:~$ cat /var/log/mission-history.log --decrypt
-
-╔══════════════════════════════════════════════════════════════════════════╗
-║  [T+ 2023-11 → PRESENT ]  UniConverge Technologies · Noida              ║
-║  ╰─ ROLE     : Research, Content & Cross-Functional Lead                 ║
-║  ╰─ MISSION  : 3 platforms end-to-end (LMS + Web + QA)                   ║
-║  ╰─ STACK    : PHP | JavaScript | Oracle SQL                             ║
-║  ╰─ SIGNAL   : ████████████████████████████ ◉ ACTIVE 🟢                  ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  [T+ 2023-02 → 2023-10 ]  EPIS Pvt. Ltd.                                ║
-║  ╰─ ROLE     : Full-Stack Web Developer                                  ║
-║  ╰─ MISSION  : Scalable back-end systems  |  CREW : 4-member dev squad   ║
-║  ╰─ SIGNAL   : ████████████████████████████ ◎ COMPLETED ✓                ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  [T+ 2022-10 → 2023-01 ]  Velocity India                                ║
-║  ╰─ ROLE     : Web Developer Intern                                      ║
-║  ╰─ MISSION  : Employee Feedback System — Front-End Lead                 ║
-║  ╰─ CREW     : 8-developer team                                          ║
-║  ╰─ SIGNAL   : ████████████████████████████ ◎ COMPLETED ✓                ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  [T+ 2022-07 → 2022-10 ]  Zuxus Business Solution                       ║
-║  ╰─ ROLE     : Database Administrator Intern                             ║
-║  ╰─ MISSION  : DB management & query optimization                        ║
-║  ╰─ SIGNAL   : ████████████████████████████ ◎ COMPLETED ✓                ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  FLIGHT DIAGNOSTICS                   -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+RUNNING+FLIGHT+DIAGNOSTICS+—+LIVE+DATA+FEED+]"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanshu9682&show_icons=true&hide_border=true&bg_color=000d1a&title_color=00E5FF&icon_color=4FC3F7&text_color=90caf9&ring_color=00E5FF&include_all_commits=true&count_private=true&border_radius=10" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9682&layout=compact&hide_border=true&bg_color=000d1a&title_color=00E5FF&text_color=90caf9&langs_count=8&border_radius=10" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9682&hide_border=true&background=000d1a&ring=00E5FF&fire=4FC3F7&currStreakLabel=00E5FF&sideLabels=90caf9&dates=90caf9&currStreakNum=00E5FF&sideNums=4FC3F7&stroke=00E5FF&border_radius=10" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshu9682&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu9682&bg_color=000d1a&color=00E5FF&line=4FC3F7&point=ffffff&area=true&area_color=001433&hide_border=true&radius=8" width="96%"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  CREDENTIALS                          -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+VERIFYING+MISSION+CREDENTIALS...+]"/>
-</div>
-
-<br/>
-
-```json
-root@himanshu:~$ cat credentials.json | verify --all
-
-{
-  "Oracle_DB_11g_RAC"  : { "issuer": "Skillsoft",      "status": "◉ VERIFIED ✓", "clearance": "ACTIVE" },
-  "JIRA_Project_Mgmt"  : { "issuer": "Great Learning",  "status": "◉ VERIFIED ✓", "clearance": "ACTIVE" },
-  "NET_OOPs"           : { "issuer": "Great Learning",  "status": "◉ VERIFIED ✓", "clearance": "ACTIVE" },
-  "Prompt_Engineering" : { "issuer": "Certified",       "status": "◉ VERIFIED ✓", "clearance": "ACTIVE" }
-}
-
->> IDENTITY CONFIRMED — CLEARANCE LEVEL 5 — ALL ACCESS GRANTED 🔓
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Oracle_DB_11g_RAC-VERIFIED-00E676?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JIRA_Project_Mgmt-VERIFIED-00E676?style=for-the-badge&logo=jira&logoColor=white&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/.NET_OOPs-VERIFIED-00E676?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000d1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Prompt_Engineering-VERIFIED-00E676?style=for-the-badge&logo=openai&logoColor=white&labelColor=000d1a"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  UPLINK / CONTACT                     -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=20&pause=999999&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=[+UPLINK+ESTABLISHED+—+TRANSMITTING+SIGNAL...+]"/>
-
-<br/><br/>
-
-<a href="mailto:himanshu.hv3992@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-himanshu.hv3992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000d1a"/>
-</a>
-&nbsp;
-<a href="https://github.com/himanshu9682">
-<img src="https://img.shields.io/badge/GitHub-himanshu9682-4FC3F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000d1a"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/himanshu9682">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000d1a"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=900&color=2DD4BF&center=true&vCenter=true&repeat=true&width=620&lines=CODE+%E2%86%92+OPTIMIZE+%E2%86%92+MEASURE+%E2%86%92+GROW;Thanks+for+visiting.+Let's+build+something+remarkable." alt="Animated closing message" />
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1800&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&height=90&lines=UPLINK+:+ESTABLISHED+✓;FREQUENCY+:+himanshu.hv3992%40gmail.com;LATENCY+:+1ms+|+PACKET+LOSS+:+0%25+|+SIGNAL+:+100%25;STATUS+:+READY+TO+COLLABORATE+—+AWAITING+TRANSMISSION+▶"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=himanshu9682&style=for-the-badge&color=00E5FF&labelColor=000d1a&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:000d1a,60:001433,100:000000&height=180&section=footer&text=◈%20MISSION%20COMPLETE%20—%20ALL%20SYSTEMS%20NOMINAL%20◈&fontSize=16&fontColor=00E5FF&animation=fadeIn&desc=T-PLUS%20INFINITY%20—%20STILL%20BUILDING%20🚀&descSize=12&descColor=4FC3F7&descAlignY=72"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/HYPEROS_v5.0-SESSION_TERMINATED-00E5FF?style=for-the-badge&labelColor=050505"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SYSTEM-READY_FOR_NEXT_SESSION-00E676?style=for-the-badge&labelColor=050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,40:0369a1,70:0f766e,100:020617&animation=fadeIn" alt="Animated footer" />
 
 </div>
