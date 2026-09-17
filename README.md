@@ -1,23 +1,14 @@
 <div align="center">
 
-<!-- MATRIX RAIN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=220&section=header&text=HIMANSHU%20VERMA&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=45&stroke=00ff41&strokeWidth=1.5&desc=%5B%20FULL%20STACK%20ENGINEER%20%5D%20%E2%80%94%20%5B%20SYSTEM%20ONLINE%20%5D&descAlignY=65&descSize=13&descColor=00cc33" />
-
-<!-- GLITCH TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=%24+whoami+%E2%86%92+himanshu_verma;%24+cat+role.txt+%E2%86%92+Full+Stack+Developer;%24+ls+skills%2F+%E2%86%92+PHP+JS+SQL+C%2B%2B+HTML+CSS;%24+uptime+%E2%86%92+4%2B+years+of+engineering;%24+status+%E2%86%92+BUILDING...+%E2%96%88" alt="Typing SVG" />
-</a>
+<!-- ░░░ SCANLINE HEADER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:003300,100:000000&height=280&section=header&text=HIMANSHU%20VERMA&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=40&stroke=00ff41&strokeWidth=2&desc=%E2%96%88%E2%96%88%E2%96%88%20FULL%20STACK%20ENGINEER%20%E2%80%94%20SYSTEM%20ONLINE%20%E2%96%88%E2%96%88%E2%96%88&descAlignY=60&descSize=15&descColor=00cc33" />
 
 <br/>
 
-<!-- ANIMATED BADGES -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000&logo=statuspage&logoColor=00ff41"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-NOIDA%2C%20INDIA-00ff41?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=00ff41"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=himanshu9682&color=00ff41&style=flat-square&label=VISITORS"/>
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/himanshu9682?style=flat-square&color=00ff41&labelColor=000000&label=FOLLOWERS)](https://github.com/himanshu9682)
+<!-- ░░░ PHASE 1 — BIOS BOOT ░░░ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=120&color=00FF41&center=true&vCenter=true&width=700&height=200&lines=BIOS+v2.4.1+...+INITIALIZING;Checking+RAM+...+16384MB+OK;Checking+CPU+...+QUAD+CORE+OK;Checking+STORAGE+...+512GB+SSD+OK;Loading+bootloader+...+OK;Mounting+%2Fdev%2Fsda1+...+OK;Starting+kernel+...+OK;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B+100%25+%5D;SYSTEM+READY+%E2%96%BA+WELCOME%2C+USER" alt="Boot Sequence" />
+</a>
 
 </div>
 
@@ -25,78 +16,123 @@
 
 ---
 
-<!-- BOOT SEQUENCE -->
 ```bash
-╔══════════════════════════════════════════════════════════════════╗
-║                  [ SYSTEM BOOT SEQUENCE ]                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  > Initializing kernel...                          [ OK ]        ║
-║  > Loading developer profile...                    [ OK ]        ║
-║  > Mounting stack: PHP / JS / SQL / C++ / HTML     [ OK ]        ║
-║  > Connecting to 3 live platforms...               [ OK ]        ║
-║  > Experience module: 4 years loaded               [ OK ]        ║
-║  > Status: READY TO BUILD                          [ ██████ ]    ║
-╚══════════════════════════════════════════════════════════════════╝
+███████████████████████████████████████████████████████████████████
+█                                                                 █
+█    ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗  ██╗███████╗██╗  ██╗    █
+█    ██║  ██║██║████╗ ████║██╔══██╗████╗ ██║██╔════╝██║  ██║    █
+█    ███████║██║██╔████╔██║███████║██╔██╗██║███████╗███████║    █
+█    ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚████║╚════██║██╔══██║    █
+█    ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚███║███████║██║  ██║    █
+█    ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝    █
+█                                                                 █
+█              [ FULL STACK ENGINEER — NODE: ACTIVE ]            █
+███████████████████████████████████████████████████████████████████
 ```
 
 <br/>
-
----
-
-<!-- IDENTITY CARD -->
-```javascript
-// ┌─────────────────────────────────────────────────────┐
-// │           DEVELOPER IDENTITY CARD v2.0              │
-// └─────────────────────────────────────────────────────┘
-
-const dev = {
-  name       : "Himanshu Verma",
-  role       : "Full Stack Web Developer",
-  stack      : ["PHP", "JavaScript", "HTML5", "CSS3", "Oracle SQL", "C++"],
-  tools      : ["VS Code", "GitHub", "Figma", "JIRA"],
-  focus      : ["Scalable Web Apps", "Back-End Architecture", "DB Design"],
-  platforms  : ["prepHQ", "The IoT Academy", "upSkill Campus"],
-  experience : "~4 years",
-  location   : "Noida, India 🇮🇳",
-  openTo     : true,   // ← available for opportunities
-
-  execute    : () => console.log("[ SHIPPING CODE... ]")
-};
-
-dev.execute();
-// OUTPUT → [ SHIPPING CODE... ]
-```
-
-<br/>
-
----
 
 <div align="center">
 
-<!-- SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+TECH+STACK+INITIALIZED+%5D" />
+<!-- ░░░ PHASE 2 — SYSTEM LOAD ░░░ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=900&color=00FF41&center=true&vCenter=true&width=680&height=45&lines=%5BSYS%5D+Loading+developer+profile+...+DONE;%5BSYS%5D+Stack+mounted+%3A+PHP+%7C+JS+%7C+SQL+%7C+C%2B%2B;%5BSYS%5D+Platforms+online+%3A+3+%2F+3+LIVE;%5BSYS%5D+Experience+%3A+4+years+%5B+LOADED+%5D;%5BSYS%5D+Status+%3A+READY+TO+BUILD+%E2%96%88" alt="System Load" />
+</a>
+
+<br/><br/>
+
+<!-- LIVE BADGES -->
+<img src="https://img.shields.io/badge/◉_STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/◎_NODE-ACTIVE-00ff41?style=flat-square&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/◈_UPTIME-4+YEARS-00ff41?style=flat-square&labelColor=000000"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=himanshu9682&color=00ff41&style=flat-square&label=VISITORS"/>
 
 </div>
 
 <br/>
 
-<!-- TECH STACK TERMINAL STYLE -->
+---
+
+<!-- ░░░ IDENTITY CARD ░░░ -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+IDENTITY+CARD+%E2%80%94+DECRYPTING...+%5D" />
+</a>
+</div>
+
+<br/>
+
+```javascript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║            DEVELOPER IDENTITY CARD  v3.0                    ║
+// ║            CLEARANCE LEVEL : FULL ACCESS                    ║
+// ╚══════════════════════════════════════════════════════════════╝
+
+const HIMANSHU_VERMA = {
+
+  codename   : "himanshu9682",
+  role       : "Full Stack Web Developer",
+  location   : "Noida, India 🇮🇳",
+  experience : "~4 years",
+
+  stack : {
+    languages : ["PHP", "JavaScript", "C++", "HTML5", "CSS3", "Oracle SQL"],
+    tools     : ["VS Code", "GitHub", "Figma", "JIRA"],
+    focus     : ["Scalable Web Apps", "Back-End Architecture", "DB Design"],
+  },
+
+  platforms  : ["prepHQ ●", "The IoT Academy ●", "upSkill Campus ●"],
+  openTo     : true,  // ← AVAILABLE FOR OPPORTUNITIES
+
+  boot: () => {
+    console.log("▓▓▓▓▓▓▓▓▓▓ SYSTEM ONLINE ▓▓▓▓▓▓▓▓▓▓");
+    console.log("[ SHIPPING CODE... INITIATED ]");
+  }
+
+};
+
+HIMANSHU_VERMA.boot();
+// ▓▓▓▓▓▓▓▓▓▓ SYSTEM ONLINE ▓▓▓▓▓▓▓▓▓▓
+// [ SHIPPING CODE... INITIATED ]
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  root@himanshu:~$ cat /etc/tech-stack                            │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  LANGUAGES     ──────────────────────────────────────────────    │
-│  ▸ JavaScript  ████████████████████░░░░  [ ADVANCED ]           │
-│  ▸ PHP         ████████████████████░░░░  [ ADVANCED ]           │
-│  ▸ C++         ████████████████░░░░░░░░  [ INTERMEDIATE ]       │
-│  ▸ Oracle SQL  ████████████████████░░░░  [ ADVANCED ]           │
-│  ▸ HTML5/CSS3  ████████████████████████  [ EXPERT ]             │
-│                                                                  │
-│  TOOLS         ──────────────────────────────────────────────    │
-│  ▸ VS Code  ▸ GitHub  ▸ Figma  ▸ JIRA                           │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+
+<br/>
+
+---
+
+<!-- ░░░ TECH STACK ░░░ -->
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+SCANNING+TECH+STACK...+%5D" />
+</a>
+
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  root@himanshu:~$ sudo scan --tech-stack --verbose                   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  LANGUAGES ─────────────────────────────────────────────────────     ║
+║                                                                      ║
+║  ▸ JavaScript  ████████████████████░░  90%  [ ADVANCED  ]           ║
+║  ▸ PHP         ████████████████████░░  90%  [ ADVANCED  ]           ║
+║  ▸ Oracle SQL  ████████████████████░░  88%  [ ADVANCED  ]           ║
+║  ▸ HTML5/CSS3  ██████████████████████  95%  [ EXPERT    ]           ║
+║  ▸ C++         ████████████████░░░░░░  75%  [ INTERMEDIATE ]        ║
+║                                                                      ║
+║  TOOLS ──────────────────────────────────────────────────────────    ║
+║                                                                      ║
+║  ▸ VS Code   ▸ GitHub   ▸ Figma   ▸ JIRA                            ║
+║                                                                      ║
+║  SCAN COMPLETE ──────────────────────────────── [ ✓ NO THREATS ]    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -120,35 +156,81 @@ dev.execute();
 
 ---
 
+<!-- ░░░ PROJECTS ░░░ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+PROJECTS+DEPLOYED+%5D" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+ACCESSING+%2Fprojects+DIRECTORY...+%5D" />
+</a>
 </div>
 
 <br/>
 
+```bash
+root@himanshu:~$ ls -la /projects/ --status=live
+
+drwxr-xr-x  prepHQ/
+│
+├── DESCRIPTION  : Tech Interview & Career-Prep Platform
+├── STACK        : Full-Stack | LMS Integration
+├── DEPLOYED     : Feb 2026
+└── STATUS       : ██████████ ● LIVE ─────────────────────────────
+
+drwxr-xr-x  theIoTAcademy/
+│
+├── DESCRIPTION  : Ed-Tech | IoT / AI / Embedded Systems
+├── STACK        : Full-Stack | Curriculum + LMS + QA
+├── DEPLOYED     : Nov 2024
+└── STATUS       : ██████████ ● LIVE ─────────────────────────────
+
+drwxr-xr-x  upSkillCampus/
+│
+├── DESCRIPTION  : Career Upskilling | 20+ Courses
+├── STACK        : Full-Stack | Internship + Placement Content
+├── DEPLOYED     : Nov 2024
+└── STATUS       : ██████████ ● LIVE ─────────────────────────────
+
+3 directories | 3 LIVE | 0 DOWN
 ```
+
+<br/>
+
+---
+
+<!-- ░░░ EXPERIENCE ░░░ -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+LOADING+experience.log...+%5D" />
+</a>
+</div>
+
+<br/>
+
+```bash
+root@himanshu:~$ cat /var/log/experience.log
+
 ╔══════════════════════════════════════════════════════════════════════╗
-║  root@himanshu:~$ ls -la /projects/                                  ║
+║  [2023-11 → PRESENT]  UniConverge Technologies                       ║
+║  ╰─ ROLE   : Research, Content & Cross-Functional Lead               ║
+║  ╰─ BUILD  : 3 platforms end-to-end (LMS + Web + QA)                 ║
+║  ╰─ STACK  : PHP | JavaScript | Oracle SQL                           ║
+║  ╰─ SIGNAL : ████████████████████ ACTIVE                             ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  ▸ prepHQ/                                                           ║
-║    ├── type    : Tech Interview & Career-Prep Platform               ║
-║    ├── stack   : Full-Stack | LMS Integration                        ║
-║    ├── since   : Feb 2026                                            ║
-║    └── status  : ● LIVE ──────────────────────────────────────────   ║
-║                                                                      ║
-║  ▸ theIoTAcademy/                                                    ║
-║    ├── type    : Ed-Tech Platform | IoT / AI / Embedded              ║
-║    ├── stack   : Full-Stack | Curriculum + LMS + QA                  ║
-║    ├── since   : Nov 2024                                            ║
-║    └── status  : ● LIVE ──────────────────────────────────────────   ║
-║                                                                      ║
-║  ▸ upSkillCampus/                                                    ║
-║    ├── type    : Career Upskilling | 20+ Courses                     ║
-║    ├── stack   : Full-Stack | Internship + Placement Content         ║
-║    ├── since   : Nov 2024                                            ║
-║    └── status  : ● LIVE ──────────────────────────────────────────   ║
-║                                                                      ║
+║  [2023-02 → 2023-10]  EPIS Pvt. Ltd.                                 ║
+║  ╰─ ROLE   : Full-Stack Web Developer                                ║
+║  ╰─ BUILD  : Scalable back-end systems                               ║
+║  ╰─ TEAM   : 4-member dev squad                                      ║
+║  ╰─ SIGNAL : ████████████████████ COMPLETED                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  [2022-10 → 2023-01]  Velocity India                                 ║
+║  ╰─ ROLE   : Web Developer Intern                                    ║
+║  ╰─ BUILD  : Employee Feedback System (Front-End Lead)               ║
+║  ╰─ TEAM   : 8-developer team                                        ║
+║  ╰─ SIGNAL : ████████████████████ COMPLETED                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  [2022-07 → 2022-10]  Zuxus Business Solution                        ║
+║  ╰─ ROLE   : Database Administrator Intern                           ║
+║  ╰─ BUILD  : DB management & query optimization                      ║
+║  ╰─ SIGNAL : ████████████████████ COMPLETED                          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -156,52 +238,22 @@ dev.execute();
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+WORK+HISTORY+LOADED+%5D" />
-</div>
-
-<br/>
-
-```bash
-root@himanshu:~$ cat experience.log
-
-  [2023-11 → NOW ]  UniConverge Technologies
-                    ╰─ Role   : Research, Content & Cross-Functional Lead
-                    ╰─ Build  : 3 platforms end-to-end (LMS + Web + QA)
-                    ╰─ Stack  : Full-Stack | PHP | JS | Oracle SQL
-
-  [2023-02 → 2023-10]  EPIS Pvt. Ltd.
-                    ╰─ Role   : Full-Stack Web Developer
-                    ╰─ Build  : Scalable back-end systems
-                    ╰─ Team   : 4-member dev squad
-
-  [2022-10 → 2023-01]  Velocity India
-                    ╰─ Role   : Web Developer Intern
-                    ╰─ Build  : Employee Feedback System (Front-End Lead)
-                    ╰─ Team   : 8-developer team
-
-  [2022-07 → 2022-10]  Zuxus Business Solution
-                    ╰─ Role   : Database Administrator Intern
-                    ╰─ Build  : DB management & query optimization
-```
-
-<br/>
-
----
-
+<!-- ░░░ GITHUB STATS ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+SYSTEM+DIAGNOSTICS+%5D" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+RUNNING+SYSTEM+DIAGNOSTICS...+%5D" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshu9682&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41&border_color=00ff41" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=himanshu9682&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9682&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9682&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9682&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&currStreakNum=00ff41&sideNums=00ff41&stroke=00ff41" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9682&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&currStreakNum=00ff41&sideNums=00ff41&stroke=00ff41" width="60%"/>
 
 <br/><br/>
 
@@ -213,49 +265,60 @@ root@himanshu:~$ cat experience.log
 
 ---
 
+<!-- ░░░ CERTIFICATIONS ░░░ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+CERTIFICATIONS+VERIFIED+%5D" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+VERIFYING+CREDENTIALS...+%5D" />
+</a>
 </div>
 
 <br/>
 
-```
-root@himanshu:~$ cat certs.json
+```json
+root@himanshu:~$ cat certs.json | python3 -m json.tool
 
-  {
-    "Oracle DB 11g RAC"    : { "issuer": "Skillsoft",     "status": "VERIFIED ✓" },
-    "JIRA Project Mgmt"    : { "issuer": "Great Learning", "status": "VERIFIED ✓" },
-    ".NET OOPs"            : { "issuer": "Great Learning", "status": "VERIFIED ✓" },
-    "Prompt Engineering"   : { "issuer": "Certified",      "status": "VERIFIED ✓" }
-  }
+{
+  "Oracle_DB_11g_RAC"  : { "issuer": "Skillsoft",      "status": "✓ VERIFIED", "expiry": "NEVER" },
+  "JIRA_Project_Mgmt"  : { "issuer": "Great Learning",  "status": "✓ VERIFIED", "expiry": "NEVER" },
+  "NET_OOPs"           : { "issuer": "Great Learning",  "status": "✓ VERIFIED", "expiry": "NEVER" },
+  "Prompt_Engineering" : { "issuer": "Certified",       "status": "✓ VERIFIED", "expiry": "NEVER" }
+}
+
+>> ALL CREDENTIALS VALID — ACCESS GRANTED ✓
 ```
 
 <br/>
 
 ---
 
+<!-- ░░░ CONNECT ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=9999&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=%5B+ESTABLISHING+CONNECTION...+%5D" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=9999&color=00FF41&center=true&vCenter=true&width=500&height=25&lines=%5B+ESTABLISHING+SECURE+CONNECTION...+%5D" />
+</a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/himanshu3992/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://himanshu9682.github.io/Himanshu-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/himanshu9682)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:himanshu.hv3992@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/himanshu3992/)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://himanshu9682.github.io/Himanshu-Portfolio/)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/himanshu9682)
+[![Email](https://img.shields.io/badge/◈_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:himanshu.hv3992@gmail.com)
 
 <br/><br/>
 
-```
-> CONNECTION ESTABLISHED
-> PING himanshu.hv3992@gmail.com ... 1ms
-> ALL SYSTEMS OPERATIONAL
-> READY TO COLLABORATE ██████████ 100%
+```bash
+> INITIATING HANDSHAKE...
+> ENCRYPTING CHANNEL...
+> PING himanshu.hv3992@gmail.com .......... 1ms TTL=64
+> PACKET LOSS: 0%
+> CONNECTION: SECURE ✓
+> ████████████████████ READY TO COLLABORATE [ 100% ]
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=120&section=footer&text=%5B%20EOF%20%5D&fontSize=16&fontColor=00ff41&animation=fadeIn" />
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:000000&height=120&section=footer&text=%5B+EOF+%5D+—+%5B+ALL+SYSTEMS+NOMINAL+%5D&fontSize=14&fontColor=00ff41&animation=fadeIn" />
 
 </div>
