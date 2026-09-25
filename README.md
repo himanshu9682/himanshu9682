@@ -70,7 +70,7 @@ const me: Developer = {
 
 <table>
 <tr>
-<td align="center"><h2>3+</h2><sub>Years of dev experience</sub></td>
+<td align="center"><h2>5+</h2><sub>Years of dev experience</sub></td>
 <td align="center"><h2>3</h2><sub>Client projects shipped</sub></td>
 <td align="center"><h2>35%</h2><sub>Page performance gain</sub></td>
 <td align="center"><h2>60%</h2><sub>Automation of manual workflows</sub></td>
