@@ -11,7 +11,7 @@
     <a href="https://github.com/himanshu3992?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=himanshu3992&label=PROFILE+VIEWS&color=0891b2&style=flat-square&base=1463" alt="Profile view count" />
+  <img src="https://komarev.com/ghpvc/?username=himanshu3992&label=PROFILE+VIEWS&color=0891b2&style=flat-square&base=8463" alt="Profile view count" />
 </div>
 
 <br />
